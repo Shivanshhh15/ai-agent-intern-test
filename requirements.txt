@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+chromadb
+python-dotenv
+PyYAML
+pytest
+httpx
+sentence-transformers
+torch
+transformers
+scikit-learn
